@@ -1,0 +1,18 @@
+# Системный мусор Windows
+NTUSER*
+ntuser*
+*.DAT
+*.DAT*
+*.ini
+*.lnk
+Recent/
+Local Settings/
+Searches/
+SendTo/
+Start Menu/
+
+# Кэш Python и node_modules
+__pycache__/
+node_modules/
+.venv/
+venv/
